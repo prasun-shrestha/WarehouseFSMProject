@@ -1,3 +1,4 @@
+package CodeFile;
 /********************************************************************
   Product List Class
         List of products in warehouse system

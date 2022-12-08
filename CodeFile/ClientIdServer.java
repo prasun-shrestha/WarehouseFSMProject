@@ -1,3 +1,4 @@
+package CodeFile;
 /******************************************************************************
  Client Id Server Class
     Creates a unique ID for client object.

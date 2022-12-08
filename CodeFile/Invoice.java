@@ -1,3 +1,4 @@
+package CodeFile;
 /******************************************************************************
 	Invoice Class
         Creates Invoice for Client -- Invoice includes Items and Amount Due 

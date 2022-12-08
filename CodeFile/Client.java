@@ -1,3 +1,4 @@
+package CodeFile;
 /*****************************************************************
  Client Class
  Creates a Client Object. Each client object has a Name, id, 

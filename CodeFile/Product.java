@@ -1,3 +1,4 @@
+package CodeFile;
 /**************************************************************************
 Product Class 
  Create product object. Each product has a description, id, Purchase Price,
